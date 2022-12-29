@@ -1,4 +1,4 @@
-## Create Microsoft Logo in Pure CSS (Version 1)
+## Create Microsoft Logo in Pure CSS (Version 2)
 
 This is the code for an article I wrote about learning CSS. In the article I show you how to use the following CSS techniques to create the Microsoft Logo:
 
