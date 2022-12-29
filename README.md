@@ -2,8 +2,7 @@
 
 This is the code for an article I wrote about learning CSS. In the article I show you how to use the following CSS techniques to create the Microsoft Logo:
 
-- CSS Grid
-- multiple CSS Classes
+- box-shadow
 
 ## Screenshots
 
